@@ -43,7 +43,7 @@ This is a web-based number guessing game where the user tries to guess a randoml
     ```
 
 ## File Structure
-Number-Guessing-Game/
+application/
 ├── node_modules/
 ├── public/
 │ ├── index.html
